@@ -1,0 +1,14 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "faysal zoabi",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^6.0.12"
+  }
+}
